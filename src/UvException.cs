@@ -1,6 +1,7 @@
 ﻿using System;
 using static libuv;
 
+// ReSharper disable UnusedMember.Global
 // ReSharper disable UnusedAutoPropertyAccessor.Global
 
 public class UvException : Exception
