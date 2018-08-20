@@ -17,7 +17,7 @@ public class UvException : Exception
         ErrorDescription = description;
     }
         
-    internal UvException(int statusCode)
+    public UvException(int statusCode)
         : this(statusCode, uv_err_name(statusCode), uv_strerror(statusCode))
     {
     }
