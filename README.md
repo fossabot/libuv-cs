@@ -9,5 +9,3 @@ A C# wrapper for the C library [libuv](https://github.com/libuv/libuv).
 
 This library is released under the same license as libuv: [The MIT License (MIT)](/LICENSE).
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FStyxz%2Flibuv-cs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FStyxz%2Flibuv-cs?ref=badge_large)
-
